@@ -6,7 +6,7 @@ The app is built using the MERN stack with a React front end, MongoDB database, 
 
 ## Deployment
 
-[Heroku App]()
+[Heroku App](https://infinite-mesa-45140.herokuapp.com/)
 
 ## User Stroy
 
