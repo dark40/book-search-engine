@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { SAVE_BOOK } from '../utils/mutations.js';
+import { SAVE_BOOK } from '../utils/mutations';
 import { useMutation } from '@apollo/client';
 import { Jumbotron, Container, Col, Form, Button, Card, CardColumns } from 'react-bootstrap';
 
